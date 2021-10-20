@@ -1,4 +1,5 @@
-           Hi there 👋 I'm Shivam Kumar Choudhary.
+          file:///C:/Users/SHIVAM%20JI/Downloads/heres-why-inclusive-web-design-with-seo-wins-2020-5dcac39469d7a-760x400.png
+          Hi there 👋 I'm Shivam Kumar Choudhary.
 
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning and making Java,Good Projects.
