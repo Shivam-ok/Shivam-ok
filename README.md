@@ -1,5 +1,5 @@
 
-<img src="![heres-why-inclusive-web-design-with-seo-wins-2020-5dcac39469d7a-760x400](https://user-images.githubusercontent.com/68122183/138030348-c5cb1808-b104-479f-96fb-599aafead6f3.png)" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="![heres-why-inclusive-web-design-with-seo-wins-2020-5dcac39469d7a-760x400](https://user-images.githubusercontent.com/68122183/138030348-c5cb1808-b104-479f-96fb-599aafead6f3.png)" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100" height="300" />
         
         Hi there 👋 I'm Shivam Kumar Choudhary.
 
