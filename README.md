@@ -1,4 +1,4 @@
-https://cdn.searchenginejournal.com/wp-content/uploads/2019/11/heres-why-inclusive-web-design-with-seo-wins-2020-5dcac39469d7a-760x400.png
+![heres-why-inclusive-web-design-with-seo-wins-2020-5dcac39469d7a-760x400](https://user-images.githubusercontent.com/68122183/138030348-c5cb1808-b104-479f-96fb-599aafead6f3.png)
         
         Hi there 👋 I'm Shivam Kumar Choudhary.
 
