@@ -1,4 +1,5 @@
-<img src="file:///C:/Users/SHIVAM%20JI/Downloads/heres-why-inclusive-web-design-with-seo-wins-2020-5dcac39469d7a-760x400.png" height="50%" width="80%" hspace="11%" >
+<img src="![heres-why-inclusive-web-design-with-seo-wins-2020-5dcac39469d7a-760x400](https://user-images.githubusercontent.com/68122183/138042309-a10bd956-82f4-4e29-a9fb-85725dcf9698.png)
+" height="50%" width="80%" hspace="11%" >
         
         Hi there 👋 I'm Shivam Kumar Choudhary.
 
