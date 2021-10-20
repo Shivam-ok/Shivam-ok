@@ -1,4 +1,4 @@
-### Hi there 👋 I'm shivam kumar choudhary.
+### Hi there 👋 I'm Shivam Kumar Choudhary.
 
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning and making Java,Good Projects.
