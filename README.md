@@ -1,6 +1,5 @@
 ![www](https://user-images.githubusercontent.com/68122183/138043360-14f07443-e62e-4768-a0b8-bd7efb100d25.png)
         
-        ![Screenshot (20)](https://user-images.githubusercontent.com/68122183/156888888-13e0f43f-2a1d-47e8-9ae0-5fdcb1ec43f8.png)
 
         
 ###           Hi there 👋 I'm Shivam Kumar Choudhary.
@@ -14,3 +13,4 @@
 
 ###             Portfolio Website.
 https://shivam-ok.github.io/myResume.github.io/
+![Screenshot (20)](https://user-images.githubusercontent.com/68122183/156888939-e8ac260c-b105-4e72-a3c4-5c44ef01c5ff.png)
