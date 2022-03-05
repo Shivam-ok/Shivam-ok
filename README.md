@@ -1,7 +1,8 @@
 ![www](https://user-images.githubusercontent.com/68122183/138043360-14f07443-e62e-4768-a0b8-bd7efb100d25.png)
         
+        ![Screenshot (21)](https://user-images.githubusercontent.com/68122183/156889117-d7b4f819-45c6-4aa3-bb7e-cc26c2596077.png)
 
-        
+
 ###           Hi there 👋 I'm Shivam Kumar Choudhary.
 
 - 🔭 I’m currently working on Full Stack Web Development
@@ -13,4 +14,3 @@
 
 ###             Portfolio Website.
 https://shivam-ok.github.io/myResume.github.io/
-![Screenshot (20)](https://user-images.githubusercontent.com/68122183/156888939-e8ac260c-b105-4e72-a3c4-5c44ef01c5ff.png)
