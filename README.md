@@ -14,9 +14,5 @@
 
 ###             Portfolio Website.
 https://shivam-ok.github.io/myResume.github.io/
-        
-                Achievements
-
-![Screenshot (34)](https://user-images.githubusercontent.com/68122183/163923563-d6e9c82e-3ffc-4715-8717-ecd8b7096bf9.png)
-
+       
 ![IMG_20201213_192824](https://user-images.githubusercontent.com/68122183/156935915-e9a9dc3e-4522-4968-b0ed-99fa1ec5a00d.jpg)
