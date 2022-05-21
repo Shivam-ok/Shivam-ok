@@ -2,6 +2,7 @@
         
 ![Screenshot (23)](https://user-images.githubusercontent.com/68122183/156928437-0cac45ab-9c42-4047-a9e0-5097549ead91.png)
 
+[Shivam Resume (1).docx](https://github.com/Shivam-ok/Shivam-ok/files/8746923/Shivam.Resume.1.docx)
 
 ###           Hi there 👋 Shivam Kumar Choudhary Here.
 
