@@ -1,4 +1,7 @@
 ![www](https://user-images.githubusercontent.com/68122183/138043360-14f07443-e62e-4768-a0b8-bd7efb100d25.png)
+
+[MY RESUME.pdf](https://github.com/Shivam-ok/Shivam-ok/files/8983910/MY.RESUME.pdf)
+
         
 ###           Hi there 👋 Shivam Kumar Choudhary Here.
 
