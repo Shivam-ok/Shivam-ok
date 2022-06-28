@@ -14,13 +14,10 @@
        
 My Project at Github
 
-![image](https://user-images.githubusercontent.com/68122183/176155065-f1359ed7-41ed-4fce-add5-6649afdb9c55.png)
+https://user-images.githubusercontent.com/68122183/138079240-a41b59bb-65fd-4d9f-940d-f94ba91d2e26.gif
 
-![image](https://user-images.githubusercontent.com/68122183/176156036-0c5b6c17-907e-4439-a903-0eaf9a84f062.png)
+https://user-images.githubusercontent.com/68122183/156888372-cd45bbca-d5d4-45fc-a680-4c0fc910a04c.gif
 
-![image](https://user-images.githubusercontent.com/68122183/176156284-0fbe8411-b0ae-45d3-8081-524a5b287fa5.png)
+https://user-images.githubusercontent.com/68122183/138071657-c5bf8273-0396-403a-907d-9ab5310b7cec.gif
 
-![image](https://user-images.githubusercontent.com/68122183/176155555-b744e466-9f81-4a66-bb42-7c9414a029d3.png)
-
-
-![image](https://user-images.githubusercontent.com/68122183/176155301-0aa702cc-6d38-4240-97a3-f11898bb2eea.png)
+https://user-images.githubusercontent.com/68122183/138058005-fd0cde5d-5f71-4248-bb9e-6780ada03bda.gif
