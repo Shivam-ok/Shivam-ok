@@ -1,6 +1,6 @@
 ![www](https://user-images.githubusercontent.com/68122183/138043360-14f07443-e62e-4768-a0b8-bd7efb100d25.png)
 
-[MY RESUME.pdf](https://github.com/Shivam-ok/Shivam-ok/files/8983910/MY.RESUME.pdf)
+![Resume photo](https://user-images.githubusercontent.com/68122183/177022151-dc94cb5f-0888-475e-a1b9-32a68a922ef4.png)
 
         
 ###           Hi there 👋 Shivam Kumar Choudhary Here.
