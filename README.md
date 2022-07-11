@@ -4,10 +4,10 @@
 
 ![Screenshot (391)](https://user-images.githubusercontent.com/68122183/178244772-c77d05cc-e9e9-4edf-9bf0-30baa16902be.png)
 
-        ![Screenshot (392)](https://user-images.githubusercontent.com/68122183/178245933-d280b7a7-d989-45e3-ad4c-0534f74e2e92.png)
+![Screenshot (392)](https://user-images.githubusercontent.com/68122183/178246234-15dfa3f8-be48-49c0-be37-e0e945d8c0b2.png)
 
-        ![Screenshot (265)](https://user-images.githubusercontent.com/68122183/178245973-96d77237-d289-4cd2-a4e8-7402456ed5dc.png)
-        
+![Screenshot (266)](https://user-images.githubusercontent.com/68122183/178246428-1718458d-7fca-4f40-99b1-5dcec7de427d.png)
+
 ![Screenshot (244)](https://user-images.githubusercontent.com/68122183/178245988-c498713d-1dda-402f-8048-b0170308168e.png)
 
 ###           Hi there 👋 Shivam Kumar Choudhary Here.
