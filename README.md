@@ -1,6 +1,6 @@
 ![www](https://user-images.githubusercontent.com/68122183/138043360-14f07443-e62e-4768-a0b8-bd7efb100d25.png)
 
-![Resume](https://user-images.githubusercontent.com/68122183/178243635-abebfb73-2b3b-4ea0-9b11-2fe4272d02b6.png)
+
 
 ![Screenshot (391)](https://user-images.githubusercontent.com/68122183/178244772-c77d05cc-e9e9-4edf-9bf0-30baa16902be.png)
 
